@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anubhab Guha!
 
-![Profile Banner](./banner.png)
+![Profile Banner](./banner.jpeg)
 
 ## 🚀 About Me
 
