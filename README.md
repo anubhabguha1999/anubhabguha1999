@@ -1,4 +1,4 @@
-# <p align="center">✨ Senior Full Stack Developer & AI Architect ✨</p>
+# <p align="center">✨ Senior Full Stack Developer ✨</p>
 
 <p align="center">
   <img src="./banner_premium.png" alt="Anubhab Guha Banner" width="100%" />
