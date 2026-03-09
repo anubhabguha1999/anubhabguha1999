@@ -1,7 +1,7 @@
 # <p align="center">✨ Senior Full Stack Developer ✨</p>
 
 <p align="center">
-  <img src="./banner_premium.png" alt="Anubhab Guha Banner" width="100%" />
+  <img src="./banner_senior.png" alt="Anubhab Guha Banner" width="100%" />
 </p>
 
 <p align="center">
